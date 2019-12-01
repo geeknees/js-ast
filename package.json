@@ -1,0 +1,10 @@
+{
+  "name": "js-ast",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "acron": "^1.0.5",
+    "escodegen": "^1.12.0"
+  }
+}
